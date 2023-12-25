@@ -1,6 +1,5 @@
 - 👋 Hi, I’m José Rodriguez as @DevJoseAle
-- 👀 I’m interested in Dart - Flutter Jobs
-- 🌱 I’m currently learning Flutter. 
+- 👀 I’m interested in React - React native jobs
 - 📫 How to reach me: Mail jrodriguezp265@gmail.com.
 
 <!---
