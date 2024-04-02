@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jose alejandro rodriguez peraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose alejandro rodriguez peraza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-alejandro-rodr%C3%ADguez-peraza-8823518a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose alejandro rodriguez peraza" height="30" width="40" /></a>
 </p>
 
 
