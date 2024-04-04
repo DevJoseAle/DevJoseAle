@@ -39,7 +39,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevJoseAle&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage)
+![](https://github-profile-trophy.vercel.app/?username=DevJoseAle&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage)
 
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
