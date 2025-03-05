@@ -5,7 +5,7 @@
 
 - 👯 I’m looking Job as **React Native Developer**
 
-- 💬 Ask me about **React Native / Expo, React, Redux, Node, Express **
+- 💬 Ask me about **React Native / Expo, React, Redux, Node, Express**
 
 - 📫 How to reach me **Jrodriguezp265@gmail.com**
 
