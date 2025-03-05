@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Rodríguez</h1>
 <h3 align="center">A passionate mobile and web developer.</h3>
 
-- 🔭 I’m currently working on **Various mobile side projects**
+- 🔭 I’m currently working on **IBM as React Native Developer and some side projects**
 
 - 👯 I’m looking Job as **React Native Developer**
 
-- 💬 Ask me about **React Native, React, Redux, Node, Express, Flutter and Dart**
+- 💬 Ask me about **React Native / Expo, React, Redux, Node, Express **
 
 - 📫 How to reach me **Jrodriguezp265@gmail.com**
 
